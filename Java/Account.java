@@ -6,7 +6,7 @@ class Account {
     String email;
     String password;
 
-    public Account(String name, Integer document) {
+    public Account(String name, Integer document) { // constructor
         this.name = name;
         this.document = document;
     }
