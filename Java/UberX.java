@@ -7,4 +7,5 @@ class UberX extends Car { // herencia es con extens
         this.brand = brand;
         this.model = model;
     }
+
 }
